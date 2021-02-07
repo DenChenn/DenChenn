@@ -2,8 +2,8 @@
 
 ![SwarzChen's github stats](https://github-readme-stats.vercel.app/api?username=SwarzChen&count_private=true&theme=dracula)
 
-- 🔭 I’m currently working on Peony
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on Personal Website
+- 🌱 I’m currently learning React
 
 #### 📫 How to reach me:
 
