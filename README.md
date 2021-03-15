@@ -6,9 +6,8 @@
 - 🌱 I’m currently learning TS + React
 
 ## Languages
-
-![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
