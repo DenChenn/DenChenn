@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! Welcome to my world ! 👋
 
 ![SwarzChen's github stats](https://github-readme-stats.vercel.app/api?username=SwarzChen&count_private=true&theme=dracula)
 
@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css,html)
 
 ## Backend Skills
 
