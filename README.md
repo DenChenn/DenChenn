@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css,html,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen)
 
 ## Backend Skills
 
