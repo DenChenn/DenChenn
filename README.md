@@ -13,8 +13,6 @@
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&&exclude_repo=1st-PyCrawlerMarathon&hide=html,css,python,C++&langs_count=5)
-
 ## Backend Skills
 
 ![](https://img.shields.io/badge/-Gin-00ADD8?link=https://github.com/gin-gonic/gin)
