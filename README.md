@@ -18,6 +18,9 @@
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white)
 
+# Frontend Skills
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)
+![](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)
 
 ## Development Tool skills
 
