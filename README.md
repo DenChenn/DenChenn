@@ -1,5 +1,7 @@
 # Hi there! Welcome to my world ! 👋
 
+I'm a student, software developer and a CEO of a start-up company.
+
 ![SwarzChen's github stats](https://github-readme-stats.vercel.app/api?username=SwarzChen&count_private=true&theme=dracula)
 
 - 🔭 I’m currently working on Personal Website
