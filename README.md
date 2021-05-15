@@ -13,6 +13,8 @@ I'm a student, software developer and a CEO of a start-up company.
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
 # Backend Skills
 
