@@ -1,4 +1,4 @@
-# Hi there! Welcome to my world ! 👋
+# Hi there!👋
 
 I'm a student, software developer and a CEO of a start-up company.
 
