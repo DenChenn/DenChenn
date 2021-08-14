@@ -5,7 +5,7 @@ I'm a student, software developer and a CEO of a start-up company.
 ![SwarzChen's github stats](https://github-readme-stats.vercel.app/api?username=SwarzChen&count_private=true&theme=dracula)
 
 - 🔭 I’m currently working on our team's product !!! lol
-- 🌱 I’m currently learning  !!!
+- 🌱 I’m currently learning GraphQL !!!
 
 ## Languages
 ![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
