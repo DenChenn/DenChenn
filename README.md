@@ -24,6 +24,7 @@ I'm a student, software developer and a CEO of a start-up company.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ##
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=dracula&layout=compact&langs_count=8" />
 </p>
@@ -58,6 +59,8 @@ I'm a student, software developer and a CEO of a start-up company.
     ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
     
  7. Analysis Tool - ![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
+
+##
 
 ### 📫 How to reach me:
 
