@@ -46,6 +46,7 @@ I'm a student, software developer and a CEO of a start-up company.
     ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 
  4. Frontend Skills - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)
+    ![THREE](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white)
     ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)
     ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
     
