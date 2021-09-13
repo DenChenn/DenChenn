@@ -20,6 +20,7 @@ I'm a student, software developer and a CEO of a start-up company.
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
