@@ -2,8 +2,8 @@
 
 I'm a student, software developer and a CEO of a start-up company.
 
-🔭 I’m currently working on our team's product !!! lol
-🌱 I’m currently learning GraphQL !!!
+🔭 I’m currently working on our team's product !!! lol. 
+🌱 I’m currently learning GraphQL !!!  
 
 ##
 
