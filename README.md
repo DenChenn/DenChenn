@@ -8,7 +8,7 @@ I'm a student, software developer and a CEO of a start-up company.
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
 
 ## Languages
@@ -26,7 +26,7 @@ I'm a student, software developer and a CEO of a start-up company.
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=dracula&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=highcontrast&layout=compact&langs_count=8" />
 </p>
 
 ## Skills
