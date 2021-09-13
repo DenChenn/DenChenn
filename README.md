@@ -25,7 +25,7 @@ I'm a student, software developer and a CEO of a start-up company.
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=Tex&theme=dracula&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=Tex&theme=dracula&layout=compact&langs_count=8&hide=jupyter-notebook" />
 </p>
 
 ## Skills
