@@ -59,12 +59,6 @@ I'm a student, software developer and a CEO of a start-up company.
     
  7. Analysis Tool - ![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 
-##
-
-<p align="center">
-  <img src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=SwarzChen&layout=compact&theme=dracula" />
-</p>
-
 ### 📫 How to reach me:
 
 - email: aaaa102234@gmail.com
