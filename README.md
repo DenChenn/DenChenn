@@ -51,6 +51,7 @@ I'm a student, software developer and a CEO of a start-up company.
     ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
     
  5. Experienced Cloud - ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white)
+    ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
  
  6. Development Tool - ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
     ![PostMan](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
