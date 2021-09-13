@@ -23,6 +23,11 @@ I'm a student, software developer and a CEO of a start-up company.
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
+##
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepymalc&hide=Tex&theme=dracula&layout=compact&langs_count=8" />
+</p>
+
 ## Skills
  1. Backend - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
     ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
