@@ -25,7 +25,7 @@ I'm a student, software developer and a CEO of a start-up company.
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepymalc&hide=Tex&theme=dracula&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=Tex&theme=dracula&layout=compact&langs_count=8" />
 </p>
 
 ## Skills
@@ -62,7 +62,7 @@ I'm a student, software developer and a CEO of a start-up company.
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=sleepymalc&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=SwarzChen&layout=compact&theme=dracula" />
 </p>
 
 ### 📫 How to reach me:
