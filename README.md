@@ -29,11 +29,6 @@ I'm a student, software developer and a CEO of a start-up company.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=highcontrast&layout=compact&langs_count=8" />
 </p>
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=highcontrast&layout=compact&langs_count=8">
- </a>
-</p>
 
 ## Skills
  1. Backend - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
