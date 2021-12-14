@@ -3,7 +3,7 @@
 I'm a student, software developer and a CEO of a start-up company.
 
 🔭 I’m currently working on our team's product !!!  
-🌱 I’m currently learning GraphQL !!!  
+🌱 I’m currently learning Kubernetes!!!  
 
 ##
 
