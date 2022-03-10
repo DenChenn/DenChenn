@@ -24,7 +24,7 @@ opportunity.
 </p>
 
 #
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="400" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <br/>
 
