@@ -41,6 +41,7 @@ opportunity 😃😃😃 !
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/viruzvz/logos-svg/master/java.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg"></code>
+<code><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"></code>
 
 ##
 
