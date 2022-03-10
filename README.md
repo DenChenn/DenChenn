@@ -16,6 +16,8 @@ I'm a student, software developer and a CEO of a start-up company.
   <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
 
+##
+
 ## Languages
 
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
