@@ -12,11 +12,11 @@ I'm a student, software developer and a CEO of a start-up company.
 🔭 I’m currently working on our huge scale kubernetes project!!!  
 🌱 I’m currently learning Rust and Kubernetes!!!  
 
+##
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
-
-##
 
 ## Languages
 
