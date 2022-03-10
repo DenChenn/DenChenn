@@ -9,11 +9,14 @@
 
 I'm a student, software developer and a CEO of a start-up company.
 
-🔭 I’m currently working on our huge scale kubernetes project!!!  
-🌱 I’m currently learning Rust and Kubernetes!!!  
+* 🔭 I’m currently working on our huge scale kubernetes project!!!  
+* 🌱 I’m currently learning Rust and Kubernetes!!!  
+* I am a double major student studying in NYCU and crazy about learning new technologies. Looking to take a part in a challenging project
+related to backend and devops.I have a great understanding on database system and distributed server system, and I am always open to any related job or intern
+opportunity.
+
 
 #
-<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
