@@ -1,4 +1,4 @@
-# Hi there!👋
+<h1 align="center"> 👋 Hi there! I'm Yenting Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CEO+Of+Startup+Company;Back+End+Developer;DevOps+Engineer;Machine+Learning+Engineer;Always%20crazy%20about%20new%20technologies&center=true&width=500&height=50"></a>
