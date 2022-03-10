@@ -82,7 +82,6 @@ opportunity.
     
  7. Analysis Tool - ![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 
-##
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> How to reach me:
 
