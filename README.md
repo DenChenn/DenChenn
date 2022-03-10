@@ -3,12 +3,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CEO+Of+Startup+Company;Back+End+Developer;DevOps+Engineer;Machine+Learning+Engineer;Always%20crazy%20about%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
+
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> About me
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+
 I'm a student, software developer and a CEO of a start-up company.
 
-🔭 I’m currently working on our team's product !!!  
-🌱 I’m currently learning Kubernetes!!!  
-
-##
+🔭 I’m currently working on our huge scale kubernetes project!!!  
+🌱 I’m currently learning Rust and Kubernetes!!!  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
