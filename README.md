@@ -26,9 +26,13 @@ opportunity.
 #
 <a target="_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
+<br/>
+<br/>
 **LANGUAGES AND TOOLS:**
 <br/>
 <br/>
+<br/>
+
 <code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
