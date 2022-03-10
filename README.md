@@ -25,16 +25,19 @@ opportunity.
 
 ## Languages
 
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/vector-logo/306166/c-programming-language"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/viruzvz/logos-svg/master/java.svg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 
 ##
 
