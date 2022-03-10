@@ -46,7 +46,7 @@ opportunity 😃😃😃 !
 
 ##
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=highcontrast&layout=compact&langs_count=8" />
 </p>
 
