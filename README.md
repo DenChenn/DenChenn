@@ -38,7 +38,6 @@ opportunity.
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/viruzvz/logos-svg/master/java.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 
