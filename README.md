@@ -27,9 +27,8 @@ opportunity.
 <a target="_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <br/>
-<br/>
+
 **LANGUAGES AND TOOLS:**
-<br/>
 <br/>
 <br/>
 
