@@ -14,7 +14,7 @@ I'm a student, software developer and a CEO of a start-up company.
 * 🐝 I'm currently runnning a startup company which willing to provide wonderful service for individual coffee shops!!!
 * I am a double major student studying in NYCU and crazy about learning new technologies. Looking to take a part in a challenging project
 related to backend and devops.I have a great understanding on database system and distributed server system, and I am always open to any related job or intern
-opportunity.
+opportunity 😃😃😃 !
 
 
 #
