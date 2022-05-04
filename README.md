@@ -52,26 +52,13 @@ opportunity 😃😃😃 !
     ![Reddis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 
     
- 3. Operation - ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-    ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?logo=circleci&logoColor=white)
-    ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?logo=githubactions&logoColor=white)
-    ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+ 3. Operation - ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?logo=circleci&logoColor=white)![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?logo=githubactions&logoColor=white)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 
- 4. Frontend Skills - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)
-    ![THREE](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white)
-    ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)
-    ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+ 4. Frontend Skills - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)![THREE](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white)![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
     
- 5. Experienced Cloud - ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white)
-    ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white)
+ 5. Experienced Cloud - ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white)![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white)
  
- 6. Development Tool - ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-    ![PostMan](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
-    ![github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
-    ![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
-    ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
-    ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
-    ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+ 6. Development Tool - ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)![PostMan](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)![github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
     
  7. Analysis Tool - ![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 
