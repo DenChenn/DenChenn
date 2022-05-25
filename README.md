@@ -24,19 +24,9 @@ opportunity 😃😃😃 !
   <img src="https://github-readme-stats.vercel.app/api?username=SwarzChen&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
 
-#
-
 **LANGUAGES AND TOOLS:**
 
-<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"></code><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg"></code>  
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/viruzvz/logos-svg/master/java.svg"></code><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg"></code><code><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"></code>
-
-##
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarzChen&hide=jupyter%20notebook&theme=highcontrast&layout=compact&langs_count=8" />
-</p>
+<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"></code><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/viruzvz/logos-svg/master/java.svg"></code><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg"></code><code><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"></code>
 
 ## Skills
  1. Backend - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)![Gin](https://img.shields.io/badge/-Gin-00ADD8?link=https://github.com/gin-gonic/gin)
