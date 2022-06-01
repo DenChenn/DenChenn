@@ -51,7 +51,4 @@ opportunity 😃😃😃 !
 
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwarzChen&layout=compact&theme=algolia" alt="SwarzChen" /></a> </p>
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <br>
