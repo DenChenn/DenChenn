@@ -6,7 +6,7 @@
 </p>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> About me
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="500" height="350" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="50" height="35" />
 
 I'm a student, software developer and a CEO of a start-up company.
 
