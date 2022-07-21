@@ -50,5 +50,5 @@ opportunity 😃😃😃 !
 - email: yentingchen@workfe.app
 
 ## :trophy: Git profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwarzChen&layout=compact&theme=algolia" alt="SwarzChen" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DenChenn&layout=compact&theme=algolia" alt="DenChenn" /></a> </p>
 <br>
