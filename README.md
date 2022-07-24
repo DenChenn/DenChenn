@@ -12,7 +12,7 @@ I'm a student, software developer and a CEO of a start-up company.
 * 🔭 I’m currently working on our huge scale kubernetes project!!!  
 * 🌱 I’m currently learning Rust and Kubernetes!!!  
 * 🐝 I'm currently runnning a startup company which is willing to provide wonderful service for individual coffee shops!!!
-* I am always open to any related job or intern
+* ⚡️ I am always open to any related job or intern
 opportunity 😃😃😃 !
 
 <p align="">
