@@ -6,7 +6,6 @@
 </p>
 
 ## About me
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="500" height="350" />
 
 I'm a student, software developer and a CEO of a start-up company.
 
@@ -15,9 +14,6 @@ I'm a student, software developer and a CEO of a start-up company.
 * 🐝 I'm currently runnning a startup company which is willing to provide wonderful service for individual coffee shops!!!
 * I am always open to any related job or intern
 opportunity 😃😃😃 !
-
-
-#
 
 **LANGUAGES AND TOOLS:**
 
