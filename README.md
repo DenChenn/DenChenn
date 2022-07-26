@@ -1,20 +1,5 @@
 <h1 align="center"> 👋 Hi there! I'm Yenting Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=672CF7&lines=Back+End+Developer;DevOps+Engineer;Machine+Learning+Engineer;Always%20crazy%20about%20new%20technologies&center=true&width=500&height=50"></a>
-</p>
-
-## About me
-
-I'm a student, software developer and a CEO of a start-up company.
-
-* 🔭 I’m currently working on our huge scale kubernetes project!!!  
-* 🌱 I’m currently learning Rust and Kubernetes!!!  
-* 🐝 I'm currently runnning a startup company which is willing to provide wonderful service for individual coffee shops!!!
-* ⚡️ I am always open to any related job or intern
-opportunity 😃😃😃 !
-
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=DenChenn&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
