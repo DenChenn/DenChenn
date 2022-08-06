@@ -24,7 +24,7 @@
 </p>
 
 ## Knowledge
-<table style="border-style: dotted">
+<table>
   <tr>
     <td>🛢 Database</td>
     <td>
