@@ -1,10 +1,33 @@
-<h1 align="center"> 👋 Hi there! I'm Yenting Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there !
 
-<p align="">
+
+<div>
+  I am an 
+  <strong>undergraduate student</strong>, 
+  <strong>a developer</strong> and 
+  <strong>a startup CEO</strong> !
+  <br>
+  Currently working on :
+  <ul>
+    <li>Majoring in CS & AM</li>
+    <li>Dcard Backend Internship</li>
+    <li>Researching on distributed system</li>
+  </ul>
+  🛫 Two years preparation for studying aboard 🛫
+</div>
+
+## Status
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=DenChenn&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
 
-#
+## Knowledge
+<table style="width: 100%">
+  <tr style="width: 100%">
+    <td>TTT</td>
+    <td>GGG</td>
+  </tr>
+</table> 
 
 **LANGUAGES AND TOOLS:**
 
