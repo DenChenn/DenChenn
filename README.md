@@ -18,12 +18,12 @@
   </p>
 </div>
 
-### 📜 Status
+## 📜 Status
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DenChenn&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
 
-### 🏔 Knowledge
+## 🏔 Knowledge
 <table>
   <tr>
     <td>🛢 Database</td>
@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-### 🌎 Language
+## 🌎 Language
 <div>
   <code><img height="30" width="30" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
   <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -89,6 +89,6 @@
   <code><img height="30" width="30" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"></code>
 </div>
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 * Email: yentingchen@workfe.app 
 
