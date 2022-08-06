@@ -9,12 +9,12 @@
   </p>
   Currently working on :
   <ul>
-    <li>Majoring in CS & AM</li>
-    <li>Dcard Backend Internship</li>
-    <li>Researching on distributed system</li>
+    <li>Majoring in <strong>CS & AM</strong></li>
+    <li><strong>Dcard Backend</strong> Internship</li>
+    <li>Researching on <strong>distributed system</strong></li>
   </ul>
   <p>
-    🛫 Two years preparation for studying aboard 🛫
+    🛫 <em>Two years preparation for studying aboard</em> 🛫
   </p>
 </div>
 
