@@ -17,7 +17,7 @@
     🛫 <em>Two years preparation for studying aboard</em> 🛫
   </p>
 </div>
-
+<br>
 
 ## 📜 Status
 <p>
@@ -76,7 +76,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 
 ## 🌎 Language
 <div>
@@ -91,7 +91,7 @@
   <code><img height="30" width="30" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg"></code>
   <code><img height="30" width="30" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"></code>
 </div>
-
+<br>
 
 ## 📫 How to reach me:
 * Email: yentingchen@workfe.app 
