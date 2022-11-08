@@ -13,6 +13,9 @@
     <li><strong>Dcard Backend</strong> Internship</li>
     <li>Researching on <strong>distributed system</strong></li>
   </ul>
+  <p>
+    🛫 <em>Two years preparation for studying aboard</em> 🛫
+  </p>
 </div>
 <br>
 
