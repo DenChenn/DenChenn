@@ -94,5 +94,4 @@
 <br>
 
 ## 📫 How to reach me:
-* Email: yentingchen@workfe.app 
-
+* Email: denchenn@workfe.tw
