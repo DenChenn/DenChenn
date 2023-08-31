@@ -91,4 +91,4 @@
 <br>
 
 ## 📫 How to reach me:
-* Email: denchenn@workfe.tw
+* Email: denchen@fashon.io
