@@ -17,8 +17,8 @@
 <br>
 
 ## 📜 Status
+[![DenChenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenChenn)](https://github.com/DenChenn/github-readme-stats)
 <p>
-  [![DenChenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenChenn)](https://github.com/DenChenn/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=DenChenn&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" />
 </p>
 
