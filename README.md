@@ -18,7 +18,7 @@
 
 ## 📜 Status
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DenChenn&show_icons=true&count_private=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenChenn&show_icons=true&count_private=true&theme=synthwave" />
 </p>
 
 
