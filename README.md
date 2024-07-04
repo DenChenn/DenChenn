@@ -91,4 +91,4 @@
 <br>
 
 ## 📫 How to reach me:
-* Email: denchen@fashon.io
+* Email: den.chen.work@proton.me
