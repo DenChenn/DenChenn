@@ -9,7 +9,7 @@
   </p>
   Currently working on :
   <ul>
-    <li>Trying to contribute <strong>Flyte/strong></li>
+    <li>Trying to contribute <strong>Flyte</strong></li>
     <li>Researching on <strong>MLOps</strong></li>
   </ul>
 </div>
