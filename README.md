@@ -5,7 +5,7 @@
     I am an 
     <strong>fresh grad</strong>, 
     <strong>a developer</strong> and 
-    <strong>a open source contributor</strong> !
+    <strong>a open source enthusiast</strong> !
   </p>
   Currently working on :
   <ul>
