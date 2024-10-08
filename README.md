@@ -11,6 +11,7 @@
   <ul>
     <li>Trying to contribute <strong>Flyte</strong></li>
     <li>Researching on <strong>MLOps</strong></li>
+    <li>Waiting for military training in TW 🇹🇼 </li>
   </ul>
 </div>
 <br>
