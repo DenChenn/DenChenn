@@ -3,15 +3,14 @@
 <div>
   <p>
     I am an 
-    <strong>undergraduate student</strong>, 
+    <strong>fresh grad</strong>, 
     <strong>a developer</strong> and 
-    <strong>a startup CEO</strong> !
+    <strong>a open source contributor</strong> !
   </p>
   Currently working on :
   <ul>
-    <li>Majoring in <strong>CS & AM</strong></li>
-    <li><strong>Dcard Backend</strong> Internship</li>
-    <li>Researching on <strong>distributed system</strong></li>
+    <li>Trying to contribute <strong>Flyte/strong></li>
+    <li>Researching on <strong>MLOps</strong></li>
   </ul>
 </div>
 <br>
